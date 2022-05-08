@@ -13,4 +13,11 @@ Veriler SRSTech firmasının Ankara, San Francisco ve Madrid şehirlerinde bulun
 
 Firmanın ofis bazında giderini analiz ederek firma yöneticilerin gelir/gider dengesini ayarlamasına yardımcı olun.
 
-![alt text](https://github.com/[burakugurr]/[Regression]/blob/[master]/img/model.png?raw=true)
+
+# Sonuç 
+
+Sonuçlar için rapora bakabilirsiniz.
+
+<p align="center">
+  <img src="https://github.com/burakugurr/Regression/blob/master/img/model.png" width="850" title="Model">
+</p>
